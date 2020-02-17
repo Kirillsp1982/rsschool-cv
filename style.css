@@ -54,18 +54,29 @@ a:hover {
 }
 
 section {
+    border-bottom: 2px solid #a38b70;
+    padding: 20px 50px;
+}
+
+.page-section {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
-    border-bottom: 2px solid #a38b70;
 }
 
-.page-section h1 {
+h1,
+h2,
+h3 {
     padding-bottom: 7px;
     text-align: center;
 }
 
 .page-section p {
     padding-bottom: 7px;
+}
+
+.page-footer {
+    box-sizing: border-box;
+    text-align: right;
+    padding: 20px;
 }
