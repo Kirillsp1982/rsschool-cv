@@ -33,18 +33,22 @@ I'm Junior Frontend Developer.
 ## Code example:
  - **Slider** - (https://kirillsp1982.github.io/minin-js-marathon/03-slider-sources)
 
-``const slides = document.querySelectorAll('.slide');
+## Code
 
-for (const slide of slides) {
-    slide.addEventListener('click', () => {
-        clearActiveClasses();
-        slide.classList.add('active');
-    })
-}
+``
+    const slides = document.querySelectorAll('.slide');
 
-const clearActiveClasses = () => {
-    slides.forEach ((slide) => slide.classList.remove('active'));
-};``
+    for (const slide of slides) {
+        slide.addEventListener('click', () => {
+            clearActiveClasses();
+            slide.classList.add('active');
+        })
+    }
+
+    const clearActiveClasses = () => {
+        slides.forEach ((slide) => slide.classList.remove('active'));
+    };
+``
 
 ***
 
