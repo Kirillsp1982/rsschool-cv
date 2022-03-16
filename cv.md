@@ -35,7 +35,6 @@ I'm Junior Frontend Developer.
 
 ## Code
 
-``
     const slides = document.querySelectorAll('.slide');
 
     for (const slide of slides) {
@@ -48,7 +47,6 @@ I'm Junior Frontend Developer.
     const clearActiveClasses = () => {
         slides.forEach ((slide) => slide.classList.remove('active'));
     };
-``
 
 ***
 
