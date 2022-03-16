@@ -14,7 +14,7 @@
 ***
 
 ## About Me:
-I'm Junior Frontend Developer. 
+I'm Junior Frontend Developer. I love my current job. But I want to realize myself as a Frontend Developer.
 
 ***
 
