@@ -36,7 +36,7 @@ const clearActiveClasses = () => {
     slides.forEach ((slide) => slide.classList.remove('active'));
 };
 
-Aducation:
+Education:
 BSTU - Chemical Technology of Organic Substances, Materials and Goods 2010
 
 Courses:
