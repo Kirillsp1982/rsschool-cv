@@ -7,9 +7,9 @@
 ***
 
 ## Contacts:
-**E-mail**: <kirillsp1982@gmail.com>
-**Telegram**: @greenkir
-**Discord**: @GreenKir(kirillsp1982)#1087
+ - **E-mail**: <kirillsp1982@gmail.com>
+ - **Telegram**: @greenkir
+ - **Discord**: @GreenKir(kirillsp1982)#1087
 
 ***
 
@@ -31,7 +31,7 @@ I'm Junior Frontend Developer.
 ***
 
 ## Code example:
-**Slider** - (https://kirillsp1982.github.io/minin-js-marathon/03-slider-sources)
+ - **Slider** - (https://kirillsp1982.github.io/minin-js-marathon/03-slider-sources)
 
 `const slides = document.querySelectorAll('.slide');
 
@@ -49,15 +49,15 @@ const clearActiveClasses = () => {
 ***
 
 ## Education:
-**BSTU** - Chemical Technology of Organic Substances, Materials and Goods 2010
+ - **BSTU** - Chemical Technology of Organic Substances, Materials and Goods 2010
 
 ***
 
 ## Courses:
-**The Rolling Scopes School RS 2020 Q1 (JavaScript)** - (https://app.rs.school/certificate/idd0mhte)
-**Udemy (JavaScript / React)**- (https://www.udemy.com/certificate/UC-c08a8632-89ca-4bd7-a4ed-075bdd10690a)
+ - **The Rolling Scopes School RS 2020 Q1 (JavaScript)** - (https://app.rs.school/certificate/idd0mhte)
+ - **Udemy (JavaScript / React)**- (https://www.udemy.com/certificate/UC-c08a8632-89ca-4bd7-a4ed-075bdd10690a)
 
 ***
 
 ## Languages:
-**English** - A2 (pre-intermediate) by tests. In my opinion my speaking level is A1 (elementary).
+ - **English** - A2 (pre-intermediate) by tests. In my opinion my speaking level is A1 (elementary).
